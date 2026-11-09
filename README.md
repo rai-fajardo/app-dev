@@ -3,7 +3,6 @@ My first repository.
 
 # My Favorite Series and Movie Franchises
   ## 1. From (2022)
-    **Genre:** Horror, Mystery, Thriller
 | Information | Details |
 |---|---|
 | Genre | Horror, Mystery, Thriller |
